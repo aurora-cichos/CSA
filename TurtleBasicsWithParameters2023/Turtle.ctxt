@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Turtle
+comment0.text=\n\ Class\ that\ represents\ a\ turtle\ which\ is\ similar\ to\ a\ Logo\ turtle.\n\ This\ class\ inherts\ from\ SimpleTurtle\ and\ is\ for\ students\n\ to\ add\ methods\ to.\n\n\ Copyright\ Georgia\ Institute\ of\ Technology\ 2004\n\ @author\ Barb\ Ericson\ ericson@cc.gatech.edu\n
+comment1.params=x\ y\ picture
+comment1.target=Turtle(int,\ int,\ Picture)
+comment1.text=\ Constructor\ that\ takes\ the\ x\ and\ y\ and\ a\ picture\ to\n\ draw\ on\n\ @param\ x\ the\ starting\ x\ position\n\ @param\ y\ the\ starting\ y\ position\n\ @param\ picture\ the\ picture\ to\ draw\ on\n
+comment2.params=x\ y\ modelDisplayer
+comment2.target=Turtle(int,\ int,\ ModelDisplay)
+comment2.text=\ Constructor\ that\ takes\ the\ x\ and\ y\ and\ a\ model\n\ display\ to\ draw\ it\ on\n\ @param\ x\ the\ starting\ x\ position\n\ @param\ y\ the\ starting\ y\ position\n\ @param\ modelDisplayer\ the\ thing\ that\ displays\ the\ model\n
+comment3.params=modelDisplay
+comment3.target=Turtle(ModelDisplay)
+comment3.text=\ Constructor\ that\ takes\ the\ model\ display\n\ @param\ modelDisplay\ the\ thing\ that\ displays\ the\ model\n
+comment4.params=p
+comment4.target=Turtle(Picture)
+comment4.text=\n\ Constructor\ that\ takes\ a\ picture\ to\ draw\ on\n\ @param\ p\ the\ picture\ to\ draw\ on\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

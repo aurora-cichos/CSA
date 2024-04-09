@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=GeometricTurtle
+comment0.text=\n\ GeometricTurtle.java\n\n\ A\ turtle\ that\ also\ knows\ how\ to\ draw\ some\ simple\ shapes\n\n\ @author\ Kathryn\ Lenth,\ Westminster\ College\ (klenth@westminstercollege.edu)\n
+comment1.params=display
+comment1.target=GeometricTurtle(ModelDisplay)
+comment1.text=\n\ Constructor\ that\ takes\ a\ model\ display\ and\ adds\n\ a\ turtle\ in\ the\ middle\ of\ it\n\ @param\ display\ the\ model\ display\n
+comment2.params=size\ numSides
+comment2.target=void\ drawPolygon(int,\ int)
+comment2.text=\n\ Draws\ a\ polygon\ with\ a\ specified\ size\ and\ number\ of\ sides.\n\ @param\ size\ the\ size\ of\ the\ polygon\ to\ draw\n\ @param\ numSides\ how\ many\ sides\ (must\ be\ at\ least\ 1)\n\ @throws\ java.lang.IllegalArgumentException\ if\ numSides\ &lt;\ 1\n
+comment3.params=size
+comment3.target=void\ drawCircle(int)
+comment3.text=\n\ Draws\ a\ circle\ with\ the\ given\ size.\n\ @param\ size\ the\ size\ of\ the\ circle\ to\ draw\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ Returns\ a\ String\ representation\ of\ this\ turtle\n
+numComments=5

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Statistician
+comment1.params=cube\ numTosses
+comment1.target=int[]\ getCubeTosses(NumberCube,\ int)
+comment1.text=\ Returns\ an\ array\ of\ the\ values\ obtained\ by\ tossing\ a\ number\ cube\ numTosses\ times.\n\ \ @param\ cube\ a\ NumberCube\n\ \ @param\ numTosses\ the\ number\ of\ tosses\ to\ be\ recorded\n\ \ \ \ \ \ \ \ \ Precondition\:\ numTosses\ >\ 0\n\ \ @return\ an\ array\ of\ numTosses\ values\n
+comment2.params=values
+comment2.target=int\ getLongestRun(int[])
+comment2.text=\ Returns\ the\ starting\ index\ of\ a\ longest\ run\ of\ two\ or\ more\ consecutive\ repeated\ values\n\ \ in\ the\ array\ values.\n\ \ @param\ values\ an\ array\ of\ integer\ values\ representing\ a\ series\ of\ number\ cube\ tosses\n\ \ \ \ \ \ \ \ \ Precondition\:\ values.length\ >\ 0\n\ \ @return\ the\ starting\ index\ of\ a\ run\ of\ maximum\ size;\n\ \ \ \ \ \ \ \ \ \ -1\ if\ there\ is\ no\ run\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

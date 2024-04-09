@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Main2
+comment0.text=\nIn\ Main2,\ write\ the\ following\ methods\ to\ work\ with\ ArrayList<String>\n1.\ \ Linear\ search\:\ linearSearch(ArrayList<String>)\n2.\ \ Binary\ search\:\ binarySearch(ArrayList<String>)\n3.\ \ Insertion\ sort\:\ insertionSort(ArrayList<String>)\n4.\ \ Selection\ sort\:\ selectionSort(ArrayList<String>)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

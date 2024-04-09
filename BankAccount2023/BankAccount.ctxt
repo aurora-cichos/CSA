@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=BankAccount
+comment0.text=\ This\ class\ encapsulates\ data\ for\ checking\ and\ savings\ accounts\nand\ provides\ an\ API\ that\ allows\ deposits\ and\ withdrawals\ to\ be\ made\nto\ these\ accounts.\n
+comment1.params=who\ checking\ saving
+comment1.target=BankAccount(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getAccountName()
+comment3.params=
+comment3.target=int\ getCheckMoney()
+comment4.params=
+comment4.target=int\ getSaveMoney()
+comment5.params=amt
+comment5.target=void\ makeCheckingDeposit(int)
+comment6.params=amt
+comment6.target=void\ makeSavingsDeposit(int)
+comment7.params=amt
+comment7.target=void\ makeCheckingWithdrawal(int)
+comment8.params=amt
+comment8.target=void\ makeSavingsWithdrawal(int)
+comment9.params=
+comment9.target=void\ printReport()
+numComments=10

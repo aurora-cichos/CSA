@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Picture
+comment0.text=\n\ A\ class\ that\ represents\ a\ picture.\ \ This\ class\ inherits\ from\ \n\ SimplePicture\ and\ allows\ the\ student\ to\ add\ functionality\ to\n\ the\ Picture\ class.\ \ \n\ \n\ Copyright\ Georgia\ Institute\ of\ Technology\ 2004-2005\n\ @author\ Barbara\ Ericson\ ericson@cc.gatech.edu\n
+comment1.params=
+comment1.target=Picture()
+comment1.text=\n\ Constructor\ that\ takes\ no\ arguments\ \n
+comment2.params=width\ height
+comment2.target=Picture(int,\ int)
+comment2.text=\ public\ Picture(String\ fileName)\n\ \ {\n\ \ \ \ //\ let\ the\ parent\ class\ handle\ this\ fileName\n\ \ \ \ super(fileName);\n\ \ }\n\ \ \n\ \ /**\n\ Constructor\ that\ takes\ the\ width\ and\ height\n\ @param\ width\ the\ width\ of\ the\ desired\ picture\n\ @param\ height\ the\ height\ of\ the\ desired\ picture\n
+comment3.params=copyPicture
+comment3.target=Picture(Picture)
+comment3.text=\n\ Constructor\ that\ takes\ a\ picture\ and\ creates\ a\ \n\ copy\ of\ that\ picture\n
+comment4.params=image
+comment4.target=Picture(java.awt.image.BufferedImage)
+comment4.text=\n\ Constructor\ that\ takes\ a\ buffered\ image\n\ @param\ image\ the\ buffered\ image\ to\ use\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ Method\ to\ return\ a\ string\ with\ information\ about\ this\ picture.\n\ @return\ a\ string\ with\ information\ about\ the\ picture\ such\ as\ fileName,\n\ height\ and\ width.\n
+numComments=6

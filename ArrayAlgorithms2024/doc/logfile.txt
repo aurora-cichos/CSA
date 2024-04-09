@@ -1,0 +1,31 @@
+Class documentation
+<---- javadoc command: ---->
+javadoc
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+17
+-classpath
+/Users/sanguine/Applications/BlueJ.app/Contents/Java/bluejcore.jar:/Users/sanguine/Applications/BlueJ.app/Contents/Java/javafx-base-20.0.1.jar:/Users/sanguine/Applications/BlueJ.app/Contents/Java/javafx-graphics-20.0.1.jar:/Users/sanguine/Applications/BlueJ.app/Contents/Java/javafx-controls-20.0.1.jar:/Users/sanguine/Applications/BlueJ.app/Contents/Java/javafx-fxml-20.0.1-mac.jar:/Users/sanguine/Applications/BlueJ.app/Contents/Java/javafx-controls-20.0.1-mac.jar:/Users/sanguine/Applications/BlueJ.app/Contents/Java/javafx-web-20.0.1-mac.jar:/Users/sanguine/Applications/BlueJ.app/Contents/Java/javafx-media-20.0.1.jar:/Users/sanguine/Applications/BlueJ.app/Contents/Java/javafx-base-20.0.1-mac.jar:/Users/sanguine/Applications/BlueJ.app/Contents/Java/javafx-media-20.0.1-mac.jar:/Users/sanguine/Applications/BlueJ.app/Contents/Java/javafx-graphics-20.0.1-mac.jar:/Users/sanguine/Applications/BlueJ.app/Contents/Java/javafx-swing-20.0.1-mac.jar:/Users/sanguine/Applications/BlueJ.app/Contents/Java/junit-4.12.jar:/Users/sanguine/Applications/BlueJ.app/Contents/Java/junit-jupiter-params-5.5.2.jar:/Users/sanguine/Applications/BlueJ.app/Contents/Java/junit-jupiter-api-5.5.2.jar:/Users/sanguine/Applications/BlueJ.app/Contents/Java/junit-jupiter-engine-5.5.2.jar:/Users/sanguine/Applications/BlueJ.app/Contents/Java/junit-platform-suite-api-1.5.2.jar:/Users/sanguine/Applications/BlueJ.app/Contents/Java/junit-vintage-engine-5.5.2.jar:/Users/sanguine/Applications/BlueJ.app/Contents/Java/junit-jupiter-5.5.2.jar:/Users/sanguine/Applications/BlueJ.app/Contents/Java/junit-platform-engine-1.5.2.jar:/Users/sanguine/Applications/BlueJ.app/Contents/Java/junit-platform-launcher-1.5.2.jar:/Users/sanguine/Applications/BlueJ.app/Contents/Java/junit-platform-commons-1.5.2.jar:/Users/sanguine/Applications/BlueJ.app/Contents/Java/hamcrest-core-1.3.jar:/Users/sanguine/Applications/BlueJ.app/Contents/Java/opentest4j-1.2.0.jar:/Users/sanguine/Applications/BlueJ.app/Contents/Java/lang-stride.jar:/Users/sanguine/Applications/BlueJ.app/Contents/Java/javafx/javafx.base.jar:/Users/sanguine/Applications/BlueJ.app/Contents/Java/javafx/javafx.controls.jar:/Users/sanguine/Applications/BlueJ.app/Contents/Java/javafx/javafx.fxml.jar:/Users/sanguine/Applications/BlueJ.app/Contents/Java/javafx/javafx.graphics.jar:/Users/sanguine/Applications/BlueJ.app/Contents/Java/javafx/javafx.media.jar:/Users/sanguine/Applications/BlueJ.app/Contents/Java/javafx/javafx.properties.jar:/Users/sanguine/Applications/BlueJ.app/Contents/Java/javafx/javafx.swing.jar:/Users/sanguine/Applications/BlueJ.app/Contents/Java/javafx/javafx.web.jar:/Users/sanguine/Developer/CSA/ArrayAlgorithms2024
+-d
+/Users/sanguine/Developer/CSA/ArrayAlgorithms2024/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+/Users/sanguine/Developer/CSA/ArrayAlgorithms2024/PotatoHead.java
+<---- end of javadoc command ---->
+Loading source file /Users/sanguine/Developer/CSA/ArrayAlgorithms2024/PotatoHead.java...
+Constructing Javadoc information...
+Standard Doclet version 17.0.4.1+1
+Building tree for all the packages and classes...
+Generating /Users/sanguine/Developer/CSA/ArrayAlgorithms2024/doc/PotatoHead.html...
+Generating /Users/sanguine/Developer/CSA/ArrayAlgorithms2024/doc/package-summary.html...
+Generating /Users/sanguine/Developer/CSA/ArrayAlgorithms2024/doc/index.html...

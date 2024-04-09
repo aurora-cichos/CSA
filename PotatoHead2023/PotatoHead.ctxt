@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=PotatoHead
+comment0.text=\n\ \ Description\ Here.\n\n\ @author\ your\ name\n\ @version\ Version\ 1.0\ Date\:\ \n
+comment1.params=
+comment1.target=PotatoHead()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ PotatoHead\n\ This\ is\ a\ default\ constructor\n
+comment2.params=initName\ initAge\ initMoustache\ initPhrase
+comment2.target=PotatoHead(java.lang.String,\ int,\ boolean,\ java.lang.String)
+comment2.text=\n\ Constructor\ for\ objects\ of\ class\ PotatoHead\n\ This\ has\ the\ parameters.\n\ @param\ String\ name\ of\ PotatoHead\n\ @param\ int\ age\n\ @param\ String\ catchPhrase\n\ \n
+comment3.params=
+comment3.target=int\ getAge()
+comment3.text=\n\ Getter\ for\ age\ variable\n\ @return\ int\ age\ of\ Potatohead\n
+comment4.params=newAge
+comment4.target=void\ setAge(int)
+comment4.text=\n\ Setter\ for\ age\ variable\n\ @param\ int\ age\ to\ set\ for\ Potatohead\n\ preconditon\:\ age\ cannot\ be\ greater\ than\ 100\n
+comment5.params=
+comment5.target=java.lang.String\ haveBirthday()
+comment5.text=\n\ method\ that\ performs\ a\ birthday,\ incrementing\ the\ age\ by\ 1\n\ @return\ a\ statement\ caelebrating\ the\ birthday.\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ toString\ for\ Potatohead\ object\ -\ inlcudes\ info\ on\ all\ Instance\ variables\n
+numComments=7
