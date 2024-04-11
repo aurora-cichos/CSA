@@ -12,7 +12,8 @@ public class Rose extends Flower {
 
     @Override
     public void grow() {
-        super.increaseHeight((super.getHeight() + 2 * super.getMaxHeight()) / 3.0);
+        super.grow();
+        super.grow();
     }
 
     @Override
