@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=initialTitle\ initialArtist\ initialPrice\ initialLengthInSecs
+comment0.target=MySong(java.lang.String,\ java.lang.String,\ double,\ int)
+comment1.params=
+comment1.target=int\ getLengthInSecs()
+comment2.params=newLengthInSecs
+comment2.target=void\ setLengthInSecs(int)
+comment3.params=
+comment3.target=double\ getPrice()
+comment4.params=newPrice
+comment4.target=void\ setPrice(double)
+comment5.params=
+comment5.target=java.lang.String\ convertToMinSec()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
